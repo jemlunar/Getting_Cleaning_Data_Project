@@ -87,9 +87,9 @@ This code book summarizes the resulting data fields in tidydata.txt, with 180 ro
 * fBodyBodyGyroJerkMag-meanFreq()
 * activityType
 ## Activity Labels
-1.WALKING
-2.WALKING_UPSTAIRS
-3.WALKING_DOWNSTAIRS
-4.SITTING
-5.STANDING
-6.LAYING
+1. WALKING
+2. WALKING_UPSTAIRS
+3. WALKING_DOWNSTAIRS
+4. SITTING
+5. STANDING
+6. LAYING
